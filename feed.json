@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "الهُمام",
+    "description": "",
+    "home_page_url": "https://elhomam.onrender.com",
+    "feed_url": "https://elhomam.onrender.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "الهٌمام"
+    },
+    "items": [
+    ]
+}
